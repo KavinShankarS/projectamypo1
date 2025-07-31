@@ -1,1 +1,2 @@
 This is the sample.
+sample 2 is added
